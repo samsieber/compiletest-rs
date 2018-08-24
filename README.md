@@ -103,4 +103,4 @@ If you are unsure, open a pull request anyway and we would be glad to help!
 
 [upstream]: https://github.com/rust-lang/rust/tree/master/src/tools/compiletest
 [src]: https://github.com/rust-lang/rust/tree/master/src/tools/compiletest/src
-[tests]: https://github.com/rust-lang/rust/blob/master/src/test/COMPILER_TESTS.md
+[tests]: https://rust-lang-nursery.github.io/rustc-guide/tests/intro.html
